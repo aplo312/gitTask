@@ -1,2 +1,3 @@
 //outputs "Git is awesome!"
-console.log("Git is awesome!")
+let input = prompt("Enter data:");
+console.log(input);
